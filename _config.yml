@@ -9,7 +9,7 @@ domainInfos: "Infos in die yml datei HIER reinschreiben"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  navBar: '#219ab3'
+  navBar: '#147a87'
   primary-dark: '#000000'
   links: '#219ab3'
 
