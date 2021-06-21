@@ -248,6 +248,14 @@ a:focus {
     }
 }
 
+.informations{
+    width: 100%;
+    padding: 50px 0;
+    background-color: {{ site.color.navBar }};
+    background-size: cover;
+  
+
+}
 .content-section {
     padding-top: 100px;
   
