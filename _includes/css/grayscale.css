@@ -17,13 +17,13 @@ html {
     height: 100%;
 }
 
-
+h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-    margin: 0 0 35px;
+    margin: 0 0 55px;
    
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
