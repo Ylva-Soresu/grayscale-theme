@@ -250,7 +250,7 @@ a:focus {
 
 .content-section {
     padding-top: 100px;
-    background-color: {{ site.color.navBar }};
+  
 }
 
 .download-section {
