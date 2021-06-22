@@ -27,6 +27,8 @@ social:
     url: http://bitbucket.org/jekyll
   - title: github
     url: https://github.com/IronSummitMedia/startbootstrap
+    -title: Buy now
+    url:
 
 # Build settings
 markdown: kramdown
